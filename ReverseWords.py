@@ -3,6 +3,7 @@
 # -*- coding: utf-8 -*-
 
 def getReversedString(string):
+    
     return string
 
 def main():
